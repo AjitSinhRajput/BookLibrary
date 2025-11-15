@@ -50,7 +50,5 @@ Built using **React Native**, **Firebase Realtime Database**, **React Navigation
 | Language | JavaScript |
 | Icons | Ionicons (Expo Vector Icons) |
 
----
 
-## 📁 Project Structure
 
