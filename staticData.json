@@ -1,0 +1,88 @@
+{
+  "books": {
+    "book1": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018,
+      "genre": "Self Help",
+      "description": "A practical guide to building good habits."
+    },
+    "book2": {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "genre": "Programming",
+      "description": "A handbook of agile software craftsmanship."
+    },
+    "book3": {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "genre": "Fiction",
+      "description": "A philosophical story about following your dreams."
+    },
+    "book4": {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "year": 1999,
+      "genre": "Programming",
+      "description": "Timeless principles for becoming a better software developer."
+    },
+    "book5": {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "year": 1997,
+      "genre": "Finance",
+      "description": "Lessons on financial freedom and building wealth."
+    },
+    "book6": {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "year": 1937,
+      "genre": "Self Help",
+      "description": "A classic guide to mindset, success, and visualization."
+    },
+    "book7": {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "year": 2016,
+      "genre": "Self Help",
+      "description": "A refreshing approach to living a meaningful life."
+    },
+    "book8": {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "year": 2016,
+      "genre": "Productivity",
+      "description": "Rules for focused success in a distracted world."
+    },
+    "book9": {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "year": 2011,
+      "genre": "History",
+      "description": "The story of human evolution and societal development."
+    },
+    "book10": {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "year": 2011,
+      "genre": "Business",
+      "description": "Methods for building successful startups using the lean approach."
+    },
+    "book11": {
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "year": 2015,
+      "genre": "Programming",
+      "description": "A technical interview preparation guide for software developers."
+    },
+    "book12": {
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "year": 1997,
+      "genre": "Spirituality",
+      "description": "A guide to mindfulness, presence, and inner peace."
+    }
+  }
+}
